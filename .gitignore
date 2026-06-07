@@ -1,0 +1,4 @@
+# Assets above jsDelivr's 20 MB per-file limit — shipped as GitHub Release
+# assets instead (fetched from the release download URL, not the CDN).
+x2t-1/x2t.wasm
+v9.3.0.24-1/dictionaries/tr_TR/tr_TR.dic
